@@ -1,0 +1,8 @@
+{
+    "Extension Name": {
+      "url":"https://Extension.URL/file.js",
+      "banner": "https://Extension.URL/file.svg",
+      "description":"Description of the extension!",
+      "tags":"Tags, Go, Here"
+    }
+}
