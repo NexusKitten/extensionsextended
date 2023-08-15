@@ -1,42 +1,52 @@
 {
-  "Pen Plus": {
-    "url": "https://raw.githubusercontent.com/David-Orangemoon/extensions/patch-5/extensions/obviousAlexC/penPlus.js",
-    "banner": "https://raw.githubusercontent.com/David-Orangemoon/Modified-Extension-Loader-Turbowarp/main/extendedGallery/Icons/penplus.svg"
-  },
-  "3D math": {
-    "url": "https://raw.githubusercontent.com/David-Orangemoon/extensions/patch-9/extensions/obviousAlexC/3DMath.js",
-    "banner": "https://raw.githubusercontent.com/David-Orangemoon/Modified-Extension-Loader-Turbowarp/main/extendedGallery/Icons/3DMath.svg",
-    "description": "3D math blocks! Created by <a href='https://scratch.mit.edu/users/pinksheep2917/'>ObviousAlexC</a>",
-    "before": "Augmented Reality",
-    "tags": "all, ObviousAlexC, advanced"
-  },
-  "Dangerous But Useful": {
-    "url": "https://raw.githubusercontent.com/David-Orangemoon/Modified-Extension-Loader-Turbowarp/main/custom%20extensions/UpgradedDangerousBusUseful.js",
-    "banner": "https://raw.githubusercontent.com/David-Orangemoon/Modified-Extension-Loader-Turbowarp/main/extendedGallery/Icons/DBU.svg",
-    "description": "Dangerous Utility Blocks! Created by <a href='https://scratch.mit.edu/users/pinksheep2917/'>ObviousAlexC</a>",
-    "tags": "all, ObviousAlexC, advanced"
-  },
-  
+    "name":"Extended Gallery",
+    "extensions":{
+        "Pen Plus": {
+        "url": "https://raw.githubusercontent.com/David-Orangemoon/extensions/patch-5/extensions/obviousAlexC/penPlus.js",
+        "banner": "https://raw.githubusercontent.com/David-Orangemoon/Modified-Extension-Loader-Turbowarp/main/extendedGallery/Icons/penplus.svg"
+        },
+        "3D math": {
+        "url": "https://raw.githubusercontent.com/David-Orangemoon/extensions/patch-9/extensions/obviousAlexC/3DMath.js",
+        "banner": "https://raw.githubusercontent.com/David-Orangemoon/Modified-Extension-Loader-Turbowarp/main/extendedGallery/Icons/3DMath.svg",
+        "description": "3D math blocks! Created by <a href='https://scratch.mit.edu/users/pinksheep2917/'>ObviousAlexC</a>",
+        "before": "Augmented Reality",
+        "tags": "all, ObviousAlexC, advanced"
+        },
+        "Dangerous But Useful": {
+        "url": "https://raw.githubusercontent.com/David-Orangemoon/Modified-Extension-Loader-Turbowarp/main/custom%20extensions/UpgradedDangerousBusUseful.js",
+        "banner": "https://raw.githubusercontent.com/David-Orangemoon/Modified-Extension-Loader-Turbowarp/main/extendedGallery/Icons/DBU.svg",
+        "description": "Dangerous Utility Blocks! Created by <a href='https://scratch.mit.edu/users/pinksheep2917/'>ObviousAlexC</a>",
+        "tags": "all, ObviousAlexC, advanced"
+        },
+        
+    
+        "List Tools": {
+        "url": "https://raw.githubusercontent.com/TurboWarp/extensions/094eddd1851f2abf64bd74195740c835c40ea0b3/extensions/Lily/Data.js",
+        "banner": "https://raw.githubusercontent.com/TurboWarp/extensions/094eddd1851f2abf64bd74195740c835c40ea0b3/images/Lily/Data.svg",
+        "before": "Looks Plus",
+        "description": "Lists have never been more powerful. Created by <a href='https://scratch.mit.edu/users/LilyMakesThings/'>LilyMakesThings</a>.",
+        "tags": "all, LilyMakesThings, Category, recommended"
+        },
+        "More Events": {
+        "url": "https://raw.githubusercontent.com/TurboWarp/extensions/b2b0491cf27cd26c6ac8e3b827c1ebee208d5ef7/extensions/Lily/MoreEvents.js",
+        "banner": "https://raw.githubusercontent.com/TurboWarp/extensions/c8274792b0802a5ec63cb20b9cadf275186a3a85/images/Lily/MoreEvents.svg",
+        "before": "Looks Plus",
+        "description": "Start your scripts in even more ways. Created by <a href='https://scratch.mit.edu/users/LilyMakesThings/'>LilyMakesThings</a>.",
+        "tags": "all, LilyMakesThings, Category, recommended"
+        },
+        
 
-  "Skins": {
-    "url": "https://raw.githubusercontent.com/TurboWarp/extensions/5a4093898530a3488956560d942a995477908a83/extensions/Lily/Skins.js",
-    "banner": "https://raw.githubusercontent.com/TurboWarp/extensions/5a4093898530a3488956560d942a995477908a83/images/Lily/Skins.svg",
-    "before": "Clipboard",
-    "description": "Have your sprites render as other images or costumes. Created by <a href='https://scratch.mit.edu/users/LilyMakesThings/'>LilyMakesThings</a>.",
-    "tags": "all, LilyMakesThings, advanced"
-  },
-  "List Tools": {
-    "url": "https://raw.githubusercontent.com/TurboWarp/extensions/094eddd1851f2abf64bd74195740c835c40ea0b3/extensions/Lily/Data.js",
-    "banner": "https://raw.githubusercontent.com/TurboWarp/extensions/094eddd1851f2abf64bd74195740c835c40ea0b3/images/Lily/Data.svg",
-    "before": "Looks Plus",
-    "description": "Lists have never been more powerful. Created by <a href='https://scratch.mit.edu/users/LilyMakesThings/'>LilyMakesThings</a>.",
-    "tags": "all, LilyMakesThings, Category, recommended"
-  },
-  "More Events": {
-    "url": "https://raw.githubusercontent.com/TurboWarp/extensions/b2b0491cf27cd26c6ac8e3b827c1ebee208d5ef7/extensions/Lily/MoreEvents.js",
-    "banner": "https://raw.githubusercontent.com/TurboWarp/extensions/c8274792b0802a5ec63cb20b9cadf275186a3a85/images/Lily/MoreEvents.svg",
-    "before": "Looks Plus",
-    "description": "Start your scripts in even more ways. Created by <a href='https://scratch.mit.edu/users/LilyMakesThings/'>LilyMakesThings</a>.",
-    "tags": "all, LilyMakesThings, Category, recommended"
-  }
+        "Trampoline": {
+            "url":"https://raw.githubusercontent.com/TurboWarp/extensions/3b7f1d0ee9508aed28bf05cb1f2df5d453b2f199/extensions/NexusKitten/trampoline.js",
+            "before": "S-Grab",
+            "description":"Get information about Scratch projects and users. Created by <a href='https://scratch.mit.edu/users/NamelessCat/'>NamelessCat</a>.",
+            "tags":"all, NexusKitten, NamelessCat, API, Scratch, S-Grab, Turbowarp"
+        },
+        "Browser Utilities": {
+            "url":"https://raw.githubusercontent.com/TurboWarp/extensions/be575561271ce6a43b1620a83158e33736936941/extensions/NexusKitten/browserutils.js",
+            "before": "Navigator",
+            "description":"Access and modify webpage information. Created by <a href='https://scratch.mit.edu/users/NamelessCat/'>NamelessCat</a>. Works best packaged to HTML.",
+            "tags":"all, NexusKitten, NamelessCat, API, Scratch, S-Grab, Turbowarp"
+        }
+    }
 }
