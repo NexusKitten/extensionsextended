@@ -1,5 +1,5 @@
 {
-    "name":"Example",
+    "name":"Pack Name",
     "extensions":{
         "Extension Name": {
           "url":"https://Extension.URL/file.js",
