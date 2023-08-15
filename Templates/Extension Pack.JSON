@@ -1,9 +1,12 @@
 {
-    "Extension Name": {
-      "url":"https://Extension.URL/file.js",
-      "banner": "https://Extension.URL/file.svg",
-      "description":"Description of the extension!",
-      "before": "Not Necassary but you can put this extension before any other!",
-      "tags":"Tags, Go, Here"
+    "name":"Example",
+    "extensions":{
+        "Extension Name": {
+          "url":"https://Extension.URL/file.js",
+          "banner": "https://Extension.URL/file.svg",
+          "description":"Description of the extension!",
+          "before": "Not Necassary but you can put this extension before any other!",
+          "tags":"Tags, Go, Here"
+        }
     }
 }
